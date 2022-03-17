@@ -31,13 +31,9 @@
 ```
 npm install -g truffle
 ```
-#### Install ganache-cli
-```
-npm i ganache-cli
-```
 #### Run ganache-cli
 ```
-ganache-cli --port 7545
+npx ganache-cli --port 7545
 ```
 #### Open new terminal window and clone this repository
 ```
